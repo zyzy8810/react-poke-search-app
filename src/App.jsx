@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Outlet, Routes, Route } from "react-router-dom"; // Routes 추가
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import MainPage from "./pages/MainPage";
 import DetailPage from "./pages/DetailPage";
 import LoginPage from "./pages/LoginPage";
